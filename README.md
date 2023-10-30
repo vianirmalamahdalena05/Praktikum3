@@ -2,7 +2,7 @@
 # Praktikum 3
 
 ## Flowchartnya 
-
+<img src="Flowchart/flowchart6.png">
 
 ## menghitung luas dan keliling lingkaran menggunakan Python
 
